@@ -1,5 +1,4 @@
 
-        // TODO code application logic here
 package dulcehogar;
 
 public class Cuenta {
